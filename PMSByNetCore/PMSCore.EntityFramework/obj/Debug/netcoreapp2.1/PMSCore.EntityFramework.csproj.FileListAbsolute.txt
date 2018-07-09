@@ -1,0 +1,9 @@
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\bin\Debug\netcoreapp2.1\PMSCore.EntityFramework.deps.json
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\bin\Debug\netcoreapp2.1\PMSCore.EntityFramework.dll
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\bin\Debug\netcoreapp2.1\PMSCore.EntityFramework.pdb
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.csprojAssemblyReference.cache
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.AssemblyInfoInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.AssemblyInfo.cs
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.dll
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore.EntityFramework\obj\Debug\netcoreapp2.1\PMSCore.EntityFramework.pdb

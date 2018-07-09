@@ -1,0 +1,11 @@
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\bin\Debug\netcoreapp2.1\MigrationsDemo.deps.json
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\bin\Debug\netcoreapp2.1\MigrationsDemo.dll
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.csproj.CoreCompileInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.AssemblyInfoInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.AssemblyInfo.cs
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\bin\Debug\netcoreapp2.1\MigrationsDemo.runtimeconfig.json
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\bin\Debug\netcoreapp2.1\MigrationsDemo.runtimeconfig.dev.json
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\bin\Debug\netcoreapp2.1\MigrationsDemo.pdb
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.dll
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.pdb
+D:\Project\PMSByNetCore\PMSByNetCore\MigrationsDemo\obj\Debug\netcoreapp2.1\MigrationsDemo.csprojAssemblyReference.cache
