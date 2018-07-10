@@ -1,0 +1,11 @@
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\bin\Debug\netcoreapp2.0\PMSCore.deps.json
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\bin\Debug\netcoreapp2.0\PMSCore.runtimeconfig.json
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\bin\Debug\netcoreapp2.0\PMSCore.runtimeconfig.dev.json
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\bin\Debug\netcoreapp2.0\PMSCore.dll
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\bin\Debug\netcoreapp2.0\PMSCore.pdb
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.csproj.CoreCompileInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.AssemblyInfoInputs.cache
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.AssemblyInfo.cs
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.dll
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.pdb
+D:\Project\PMSByNetCore\PMSByNetCore\PMSCore\obj\Debug\netcoreapp2.0\PMSCore.csprojAssemblyReference.cache
